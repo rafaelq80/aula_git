@@ -1,2 +1,3 @@
 ﻿Amanhã começam as aulas de Java!
 O Java é muito legal
+Atualizar o repositório local!
